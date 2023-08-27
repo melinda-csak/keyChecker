@@ -9,7 +9,7 @@ class Main:
         self.rectangle_width = 5
         self.rectangle_height = 10
 
-        # TODO: add needed parameters
+        # TODO: add needed parameters:
 
     # call the imported method and write the variable value
     def run(self):
@@ -17,8 +17,8 @@ class Main:
         area = ShapeCalculator.calculate_area_rectangle(self.rectangle_width, self.rectangle_height)
         print(f"The area of the rectangle is: {area}")
 
-        # TODO: return the result of the key-checking
-        print("hello world!")
+        # TODO: return the result of the key-checking:
+
 
 # the following block is a common idiom in Python
 # it allows you to check if the script is being run directly (not imported as a module)
