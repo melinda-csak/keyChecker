@@ -19,6 +19,7 @@ Learning objectives:
 
 Code should be made easily expandable for functional extensions. These long-term objectives include:
 
+- get user parameters without user having to write into code
 - data type checks
 - null value checks
 - data length checks
