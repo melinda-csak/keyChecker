@@ -6,10 +6,10 @@ There is a beta version for a function that checks business key duplicates: busi
 
 Current objectives:
 
-- **main.py**: parameterize file path, separator, header and column informations so users will have to write only these to the code (easier usage)
-- **ReadFile.py**: read the file that contains data the user wants to check - as optimized as possible
-- **KeyChecker.py**: write the key check in python (python exercise and cleaner code)
-- **KeyChecker.py + main.py**: return result of check in a user-friendly readable format (easier usage)
+1. **main.py**: parameterize file path, separator, header and column informations so users will have to write only these to the code (easier usage)
+2. **ReadFile.py**: read the file that contains data the user wants to check - **into a format** as optimized as possible
+3. **KeyChecker.py**: write the key check in python (python exercise and cleaner code)
+4. **KeyChecker.py + main.py**: return result of check in a user-friendly readable format (easier usage)
 
 
 Learning objectives:
